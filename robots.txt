@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pete-poonperm.github.io/sitemap.xml
+Sitemap: https://Pete-Poonperm.github.io/sitemap.xml
