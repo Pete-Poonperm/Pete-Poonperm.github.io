@@ -6,7 +6,7 @@ subtitle: Data Scientist | Sustainability | Financial Fraud
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG-2506.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>Manchester, United Kingdom</p>
