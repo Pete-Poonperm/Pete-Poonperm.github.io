@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist | Sustainability | Financial Fraud  
+subtitle: Data Scientist | Sustainability | Fraud Prevention   
 
 profile:
   align: right
